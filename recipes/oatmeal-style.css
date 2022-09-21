@@ -1,0 +1,12 @@
+html {
+    background-color: rgb(206, 149, 96);
+    color: white;
+    text-align: center;
+ font-family: American Typewriter;
+ line-height: 2;
+}
+
+img {
+    width: auto;
+    height: 400px;
+}

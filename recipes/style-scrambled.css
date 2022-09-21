@@ -1,0 +1,37 @@
+html {
+    background-color: #ffe993;
+    text-align: center;
+    font-family: American Typewriter;
+    line-height: 2;
+}
+
+h1 {
+    color: grey;
+
+}
+
+h2 {
+    color: grey;
+}
+
+h3 {
+    color: grey;
+
+}
+
+ul {
+    color: grey;
+}
+
+ol {
+    color: grey;
+}
+
+p {
+    color: grey;
+}
+
+.scrambledImage {
+    width: auto;
+    height: 400px;
+}
